@@ -1,0 +1,69 @@
+
+html {
+
+  font-family: 'Lato', sans-serif;
+  background-color: #ffed00;
+  color:  #163962;
+}
+
+
+
+
+.textBox {
+
+    padding: 0;
+    display: flex ;
+    justify-content: flex-start;
+    height: 30px;
+    position: relative;
+    left: 0;
+    outline: none;
+    border: 1px solid #cdcdcd;
+    border-color: rgba(0,0,0,.15);
+    background-color: #163962;
+    font-size: 16px;
+    color: #ffed00;
+    width: 600px;
+    height: auto;
+    margin-right: -4px;
+    border-radius: 20px;
+    margin: auto;
+    text-align: center;
+}
+
+
+.textboxStyler {
+  
+  
+  display: flex;
+  font-weight: bold;
+  
+}
+
+input[type="button"] {
+
+
+color: #ffed00;
+font-family: 'Lato';
+text-align: center;
+margin-left: 200px;
+font-weight: bold;
+background-color:  #163962;
+margin-top: 100px;
+
+
+}
+
+
+.footer {
+
+
+  position:fixed;
+  left:0px;
+  bottom:0px;
+  height:50px;
+  width:100%;
+  font-weight: bold;
+ 
+
+}
